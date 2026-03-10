@@ -1,0 +1,306 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jonar\\Desktop\\cribadoc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D856D771-CDA3-91E9-150A-7B1828AD5D1F}|src\\CribaDoc.Server\\CribaDoc.Server.csproj|c:\\users\\jonar\\desktop\\cribadoc\\src\\cribadoc.server\\persistencia\\repositorios\\idecisionrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D856D771-CDA3-91E9-150A-7B1828AD5D1F}|src\\CribaDoc.Server\\CribaDoc.Server.csproj|solutionrelative:src\\cribadoc.server\\persistencia\\repositorios\\idecisionrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D856D771-CDA3-91E9-150A-7B1828AD5D1F}|src\\CribaDoc.Server\\CribaDoc.Server.csproj|c:\\users\\jonar\\desktop\\cribadoc\\src\\cribadoc.server\\persistencia\\repositorios\\decisionrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D856D771-CDA3-91E9-150A-7B1828AD5D1F}|src\\CribaDoc.Server\\CribaDoc.Server.csproj|solutionrelative:src\\cribadoc.server\\persistencia\\repositorios\\decisionrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D856D771-CDA3-91E9-150A-7B1828AD5D1F}|src\\CribaDoc.Server\\CribaDoc.Server.csproj|c:\\users\\jonar\\desktop\\cribadoc\\src\\cribadoc.server\\persistencia\\entidades\\decisionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D856D771-CDA3-91E9-150A-7B1828AD5D1F}|src\\CribaDoc.Server\\CribaDoc.Server.csproj|solutionrelative:src\\cribadoc.server\\persistencia\\entidades\\decisionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C2E94D-B59B-A33B-FE17-6B28D108C324}|src\\CribaDoc.Core\\CribaDoc.Core.csproj|c:\\users\\jonar\\desktop\\cribadoc\\src\\cribadoc.core\\ris\\rispaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C2E94D-B59B-A33B-FE17-6B28D108C324}|src\\CribaDoc.Core\\CribaDoc.Core.csproj|solutionrelative:src\\cribadoc.core\\ris\\rispaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C2E94D-B59B-A33B-FE17-6B28D108C324}|src\\CribaDoc.Core\\CribaDoc.Core.csproj|c:\\users\\jonar\\desktop\\cribadoc\\src\\cribadoc.core\\ris\\conversorris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C2E94D-B59B-A33B-FE17-6B28D108C324}|src\\CribaDoc.Core\\CribaDoc.Core.csproj|solutionrelative:src\\cribadoc.core\\ris\\conversorris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D856D771-CDA3-91E9-150A-7B1828AD5D1F}|src\\CribaDoc.Server\\CribaDoc.Server.csproj|c:\\users\\jonar\\desktop\\cribadoc\\src\\cribadoc.server\\negocio\\cribadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D856D771-CDA3-91E9-150A-7B1828AD5D1F}|src\\CribaDoc.Server\\CribaDoc.Server.csproj|solutionrelative:src\\cribadoc.server\\negocio\\cribadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D856D771-CDA3-91E9-150A-7B1828AD5D1F}|src\\CribaDoc.Server\\CribaDoc.Server.csproj|c:\\users\\jonar\\desktop\\cribadoc\\src\\cribadoc.server\\negocio\\busquedaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D856D771-CDA3-91E9-150A-7B1828AD5D1F}|src\\CribaDoc.Server\\CribaDoc.Server.csproj|solutionrelative:src\\cribadoc.server\\negocio\\busquedaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D856D771-CDA3-91E9-150A-7B1828AD5D1F}|src\\CribaDoc.Server\\CribaDoc.Server.csproj|c:\\users\\jonar\\desktop\\cribadoc\\src\\cribadoc.server\\controllers\\busquedascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D856D771-CDA3-91E9-150A-7B1828AD5D1F}|src\\CribaDoc.Server\\CribaDoc.Server.csproj|solutionrelative:src\\cribadoc.server\\controllers\\busquedascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D856D771-CDA3-91E9-150A-7B1828AD5D1F}|src\\CribaDoc.Server\\CribaDoc.Server.csproj|c:\\users\\jonar\\desktop\\cribadoc\\src\\cribadoc.server\\controllers\\criterioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D856D771-CDA3-91E9-150A-7B1828AD5D1F}|src\\CribaDoc.Server\\CribaDoc.Server.csproj|solutionrelative:src\\cribadoc.server\\controllers\\criterioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D856D771-CDA3-91E9-150A-7B1828AD5D1F}|src\\CribaDoc.Server\\CribaDoc.Server.csproj|c:\\users\\jonar\\desktop\\cribadoc\\src\\cribadoc.server\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D856D771-CDA3-91E9-150A-7B1828AD5D1F}|src\\CribaDoc.Server\\CribaDoc.Server.csproj|solutionrelative:src\\cribadoc.server\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D856D771-CDA3-91E9-150A-7B1828AD5D1F}|src\\CribaDoc.Server\\CribaDoc.Server.csproj|c:\\users\\jonar\\desktop\\cribadoc\\src\\cribadoc.server\\negocio\\proyectoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D856D771-CDA3-91E9-150A-7B1828AD5D1F}|src\\CribaDoc.Server\\CribaDoc.Server.csproj|solutionrelative:src\\cribadoc.server\\negocio\\proyectoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D856D771-CDA3-91E9-150A-7B1828AD5D1F}|src\\CribaDoc.Server\\CribaDoc.Server.csproj|c:\\users\\jonar\\desktop\\cribadoc\\src\\cribadoc.server\\auth\\projecttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D856D771-CDA3-91E9-150A-7B1828AD5D1F}|src\\CribaDoc.Server\\CribaDoc.Server.csproj|solutionrelative:src\\cribadoc.server\\auth\\projecttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D856D771-CDA3-91E9-150A-7B1828AD5D1F}|src\\CribaDoc.Server\\CribaDoc.Server.csproj|c:\\users\\jonar\\desktop\\cribadoc\\src\\cribadoc.server\\entradasalida\\proyectos\\abrirproyectoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D856D771-CDA3-91E9-150A-7B1828AD5D1F}|src\\CribaDoc.Server\\CribaDoc.Server.csproj|solutionrelative:src\\cribadoc.server\\entradasalida\\proyectos\\abrirproyectoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D856D771-CDA3-91E9-150A-7B1828AD5D1F}|src\\CribaDoc.Server\\CribaDoc.Server.csproj|c:\\users\\jonar\\desktop\\cribadoc\\src\\cribadoc.server\\negocio\\criterioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D856D771-CDA3-91E9-150A-7B1828AD5D1F}|src\\CribaDoc.Server\\CribaDoc.Server.csproj|solutionrelative:src\\cribadoc.server\\negocio\\criterioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D856D771-CDA3-91E9-150A-7B1828AD5D1F}|src\\CribaDoc.Server\\CribaDoc.Server.csproj|c:\\users\\jonar\\desktop\\cribadoc\\src\\cribadoc.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D856D771-CDA3-91E9-150A-7B1828AD5D1F}|src\\CribaDoc.Server\\CribaDoc.Server.csproj|solutionrelative:src\\cribadoc.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D856D771-CDA3-91E9-150A-7B1828AD5D1F}|src\\CribaDoc.Server\\CribaDoc.Server.csproj|c:\\users\\jonar\\desktop\\cribadoc\\src\\cribadoc.server\\auth\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D856D771-CDA3-91E9-150A-7B1828AD5D1F}|src\\CribaDoc.Server\\CribaDoc.Server.csproj|solutionrelative:src\\cribadoc.server\\auth\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D856D771-CDA3-91E9-150A-7B1828AD5D1F}|src\\CribaDoc.Server\\CribaDoc.Server.csproj|c:\\users\\jonar\\desktop\\cribadoc\\src\\cribadoc.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D856D771-CDA3-91E9-150A-7B1828AD5D1F}|src\\CribaDoc.Server\\CribaDoc.Server.csproj|solutionrelative:src\\cribadoc.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IDecisionRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\jonar\\Desktop\\cribadoc\\src\\CribaDoc.Server\\Persistencia\\Repositorios\\IDecisionRepositorio.cs",
+              "RelativeDocumentMoniker": "src\\CribaDoc.Server\\Persistencia\\Repositorios\\IDecisionRepositorio.cs",
+              "ToolTip": "C:\\Users\\jonar\\Desktop\\cribadoc\\src\\CribaDoc.Server\\Persistencia\\Repositorios\\IDecisionRepositorio.cs",
+              "RelativeToolTip": "src\\CribaDoc.Server\\Persistencia\\Repositorios\\IDecisionRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T17:39:04.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DecisionRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\jonar\\Desktop\\cribadoc\\src\\CribaDoc.Server\\Persistencia\\Repositorios\\DecisionRepositorio.cs",
+              "RelativeDocumentMoniker": "src\\CribaDoc.Server\\Persistencia\\Repositorios\\DecisionRepositorio.cs",
+              "ToolTip": "C:\\Users\\jonar\\Desktop\\cribadoc\\src\\CribaDoc.Server\\Persistencia\\Repositorios\\DecisionRepositorio.cs",
+              "RelativeToolTip": "src\\CribaDoc.Server\\Persistencia\\Repositorios\\DecisionRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T17:38:40.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DecisionEntity.cs",
+              "DocumentMoniker": "C:\\Users\\jonar\\Desktop\\cribadoc\\src\\CribaDoc.Server\\Persistencia\\Entidades\\DecisionEntity.cs",
+              "RelativeDocumentMoniker": "src\\CribaDoc.Server\\Persistencia\\Entidades\\DecisionEntity.cs",
+              "ToolTip": "C:\\Users\\jonar\\Desktop\\cribadoc\\src\\CribaDoc.Server\\Persistencia\\Entidades\\DecisionEntity.cs",
+              "RelativeToolTip": "src\\CribaDoc.Server\\Persistencia\\Entidades\\DecisionEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T17:38:00.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RisPaper.cs",
+              "DocumentMoniker": "C:\\Users\\jonar\\Desktop\\cribadoc\\src\\CribaDoc.Core\\Ris\\RisPaper.cs",
+              "RelativeDocumentMoniker": "src\\CribaDoc.Core\\Ris\\RisPaper.cs",
+              "ToolTip": "C:\\Users\\jonar\\Desktop\\cribadoc\\src\\CribaDoc.Core\\Ris\\RisPaper.cs",
+              "RelativeToolTip": "src\\CribaDoc.Core\\Ris\\RisPaper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T17:29:53.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConversorRis.cs",
+              "DocumentMoniker": "C:\\Users\\jonar\\Desktop\\cribadoc\\src\\CribaDoc.Core\\Ris\\ConversorRis.cs",
+              "RelativeDocumentMoniker": "src\\CribaDoc.Core\\Ris\\ConversorRis.cs",
+              "ToolTip": "C:\\Users\\jonar\\Desktop\\cribadoc\\src\\CribaDoc.Core\\Ris\\ConversorRis.cs",
+              "RelativeToolTip": "src\\CribaDoc.Core\\Ris\\ConversorRis.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAJcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T17:26:11.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CribadoService.cs",
+              "DocumentMoniker": "C:\\Users\\jonar\\Desktop\\cribadoc\\src\\CribaDoc.Server\\Negocio\\CribadoService.cs",
+              "RelativeDocumentMoniker": "src\\CribaDoc.Server\\Negocio\\CribadoService.cs",
+              "ToolTip": "C:\\Users\\jonar\\Desktop\\cribadoc\\src\\CribaDoc.Server\\Negocio\\CribadoService.cs",
+              "RelativeToolTip": "src\\CribaDoc.Server\\Negocio\\CribadoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T17:19:38.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AbrirProyectoResponse.cs",
+              "DocumentMoniker": "C:\\Users\\jonar\\Desktop\\cribadoc\\src\\CribaDoc.Server\\EntradaSalida\\Proyectos\\AbrirProyectoResponse.cs",
+              "RelativeDocumentMoniker": "src\\CribaDoc.Server\\EntradaSalida\\Proyectos\\AbrirProyectoResponse.cs",
+              "ToolTip": "C:\\Users\\jonar\\Desktop\\cribadoc\\src\\CribaDoc.Server\\EntradaSalida\\Proyectos\\AbrirProyectoResponse.cs",
+              "RelativeToolTip": "src\\CribaDoc.Server\\EntradaSalida\\Proyectos\\AbrirProyectoResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T19:25:16.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jonar\\Desktop\\cribadoc\\src\\CribaDoc.Server\\Program.cs",
+              "RelativeDocumentMoniker": "src\\CribaDoc.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\jonar\\Desktop\\cribadoc\\src\\CribaDoc.Server\\Program.cs",
+              "RelativeToolTip": "src\\CribaDoc.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T19:00:56.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jonar\\Desktop\\cribadoc\\src\\CribaDoc.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\CribaDoc.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\jonar\\Desktop\\cribadoc\\src\\CribaDoc.Server\\appsettings.json",
+              "RelativeToolTip": "src\\CribaDoc.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-08T18:14:48.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProjectTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\jonar\\Desktop\\cribadoc\\src\\CribaDoc.Server\\Auth\\ProjectTokenService.cs",
+              "RelativeDocumentMoniker": "src\\CribaDoc.Server\\Auth\\ProjectTokenService.cs",
+              "ToolTip": "C:\\Users\\jonar\\Desktop\\cribadoc\\src\\CribaDoc.Server\\Auth\\ProjectTokenService.cs",
+              "RelativeToolTip": "src\\CribaDoc.Server\\Auth\\ProjectTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T18:12:55.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\jonar\\Desktop\\cribadoc\\src\\CribaDoc.Server\\Auth\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "src\\CribaDoc.Server\\Auth\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\jonar\\Desktop\\cribadoc\\src\\CribaDoc.Server\\Auth\\PasswordHasher.cs",
+              "RelativeToolTip": "src\\CribaDoc.Server\\Auth\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T18:12:54.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CriterioService.cs",
+              "DocumentMoniker": "C:\\Users\\jonar\\Desktop\\cribadoc\\src\\CribaDoc.Server\\Negocio\\CriterioService.cs",
+              "RelativeDocumentMoniker": "src\\CribaDoc.Server\\Negocio\\CriterioService.cs",
+              "ToolTip": "C:\\Users\\jonar\\Desktop\\cribadoc\\src\\CribaDoc.Server\\Negocio\\CriterioService.cs",
+              "RelativeToolTip": "src\\CribaDoc.Server\\Negocio\\CriterioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T16:31:55.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProyectoService.cs",
+              "DocumentMoniker": "C:\\Users\\jonar\\Desktop\\cribadoc\\src\\CribaDoc.Server\\Negocio\\ProyectoService.cs",
+              "RelativeDocumentMoniker": "src\\CribaDoc.Server\\Negocio\\ProyectoService.cs",
+              "ToolTip": "C:\\Users\\jonar\\Desktop\\cribadoc\\src\\CribaDoc.Server\\Negocio\\ProyectoService.cs",
+              "RelativeToolTip": "src\\CribaDoc.Server\\Negocio\\ProyectoService.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAAAMMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T16:31:50.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BusquedaService.cs",
+              "DocumentMoniker": "C:\\Users\\jonar\\Desktop\\cribadoc\\src\\CribaDoc.Server\\Negocio\\BusquedaService.cs",
+              "RelativeDocumentMoniker": "src\\CribaDoc.Server\\Negocio\\BusquedaService.cs",
+              "ToolTip": "C:\\Users\\jonar\\Desktop\\cribadoc\\src\\CribaDoc.Server\\Negocio\\BusquedaService.cs",
+              "RelativeToolTip": "src\\CribaDoc.Server\\Negocio\\BusquedaService.cs",
+              "ViewState": "AgIAAD0BAAAAAAAAAAAAAGUBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T16:17:11.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CriteriosController.cs",
+              "DocumentMoniker": "C:\\Users\\jonar\\Desktop\\cribadoc\\src\\CribaDoc.Server\\Controllers\\CriteriosController.cs",
+              "RelativeDocumentMoniker": "src\\CribaDoc.Server\\Controllers\\CriteriosController.cs",
+              "ToolTip": "C:\\Users\\jonar\\Desktop\\cribadoc\\src\\CribaDoc.Server\\Controllers\\CriteriosController.cs",
+              "RelativeToolTip": "src\\CribaDoc.Server\\Controllers\\CriteriosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T16:17:43.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\jonar\\Desktop\\cribadoc\\src\\CribaDoc.Server\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "src\\CribaDoc.Server\\Controllers\\ProjectsController.cs",
+              "ToolTip": "C:\\Users\\jonar\\Desktop\\cribadoc\\src\\CribaDoc.Server\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "src\\CribaDoc.Server\\Controllers\\ProjectsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T16:13:02.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BusquedasController.cs",
+              "DocumentMoniker": "C:\\Users\\jonar\\Desktop\\cribadoc\\src\\CribaDoc.Server\\Controllers\\BusquedasController.cs",
+              "RelativeDocumentMoniker": "src\\CribaDoc.Server\\Controllers\\BusquedasController.cs",
+              "ToolTip": "C:\\Users\\jonar\\Desktop\\cribadoc\\src\\CribaDoc.Server\\Controllers\\BusquedasController.cs",
+              "RelativeToolTip": "src\\CribaDoc.Server\\Controllers\\BusquedasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T16:12:59.831Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\jonar\Desktop\cribadoc\src\CribaDoc.Core\bin\Debug\net8.0\CribaDoc.Core.deps.json
+C:\Users\jonar\Desktop\cribadoc\src\CribaDoc.Core\bin\Debug\net8.0\CribaDoc.Core.dll
+C:\Users\jonar\Desktop\cribadoc\src\CribaDoc.Core\bin\Debug\net8.0\CribaDoc.Core.pdb
+C:\Users\jonar\Desktop\cribadoc\src\CribaDoc.Core\obj\Debug\net8.0\CribaDoc.Core.csproj.AssemblyReference.cache
+C:\Users\jonar\Desktop\cribadoc\src\CribaDoc.Core\obj\Debug\net8.0\CribaDoc.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonar\Desktop\cribadoc\src\CribaDoc.Core\obj\Debug\net8.0\CribaDoc.Core.AssemblyInfoInputs.cache
+C:\Users\jonar\Desktop\cribadoc\src\CribaDoc.Core\obj\Debug\net8.0\CribaDoc.Core.AssemblyInfo.cs
+C:\Users\jonar\Desktop\cribadoc\src\CribaDoc.Core\obj\Debug\net8.0\CribaDoc.Core.csproj.CoreCompileInputs.cache
+C:\Users\jonar\Desktop\cribadoc\src\CribaDoc.Core\obj\Debug\net8.0\CribaDoc.Core.dll
+C:\Users\jonar\Desktop\cribadoc\src\CribaDoc.Core\obj\Debug\net8.0\refint\CribaDoc.Core.dll
+C:\Users\jonar\Desktop\cribadoc\src\CribaDoc.Core\obj\Debug\net8.0\CribaDoc.Core.pdb
+C:\Users\jonar\Desktop\cribadoc\src\CribaDoc.Core\obj\Debug\net8.0\ref\CribaDoc.Core.dll
