@@ -1,0 +1,14 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Arriazu"
+  given-names: "Telmo"
+
+- family-names: "Arriazu"
+  given-names: "Jon"
+
+title: "CribaDoc"
+version: 1.0.0
+doi: 10.5281/zenodo.18958938
+date-released: 2026-03-11
+url: "https://github.com/CribaDoc/CribaDoc"
