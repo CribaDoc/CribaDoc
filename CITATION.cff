@@ -2,8 +2,8 @@ cff-version: 1.0.0
 message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Arriazu Muñoz"
-- given-names: "Telmo"
--orcid: https://orcid.org/0009-0008-3373-8729
+  given-names: "Telmo"
+  orcid: https://orcid.org/0009-0008-3373-8729
 
 - family-names: "Arriazu Muñoz"
   given-names: "Jon"
